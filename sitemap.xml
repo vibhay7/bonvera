@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://bonvera.in/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/index.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/blog.html</loc>
+  <lastmod>2015-09-06T01:05:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/index-agency.html</loc>
+  <lastmod>2015-10-06T00:12:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/index-app.html</loc>
+  <lastmod>2015-09-06T01:05:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/blog-single.html</loc>
+  <lastmod>2015-09-06T01:05:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/header-scroll.html</loc>
+  <lastmod>2015-09-06T01:05:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/header-simple.html</loc>
+  <lastmod>2015-09-06T01:05:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/footer-simple.html</loc>
+  <lastmod>2015-09-06T01:05:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/sidebar-left.html</loc>
+  <lastmod>2015-09-07T22:40:20+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/page.html</loc>
+  <lastmod>2015-09-06T01:05:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://bonvera.in/indexapp.html</loc>
+  <lastmod>2015-09-10T22:37:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
